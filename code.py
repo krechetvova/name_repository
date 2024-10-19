@@ -4,6 +4,7 @@ a = 2
 b = 3
 result = a + b
 
+# Добавлен комментарий
 print('Меня зовут ' + first_name + ' ' + last_name)
 
 if (result == 5):
